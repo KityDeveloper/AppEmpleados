@@ -1,0 +1,6 @@
+[submodule "AppEmpleadosFrontEnd"]
+    path = frontend
+    url = git@github.com:KityDeveloper/AppEmpleadosFrontEnd.git
+[submodule "AppEmpleadosBackend"]
+    path = backend
+    url = git@github.com:KityDeveloper/AppEmpleadosBackend.git
